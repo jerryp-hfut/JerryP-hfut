@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jerry
+- 👀 I’m interested in machine learning.
+- 🌱 I’m currently learning computer science.
+- 💞️ I’m looking to collaborate on mathematics modeling
+- 📫 How to reach me :(null)
