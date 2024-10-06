@@ -19,7 +19,7 @@
 - 🏆 **Meritorious Winner**: *Mathematical Contest in Modeling (MCM)* – **Team Leader**  
   Led a team to develop a robust mathematical model for solving real-world issues, achieving the prestigious Meritorious Winner award.
   
-- 🏅 **National 1st Prize Nominee**: *China Undergraduate Mathematical Contest in Modeling (CUMCM)*  
+- 🏅 **National 1st Prize Nominee**: *China Undergraduate Mathematical Contest in Modeling (CUMCM)* – **Team Leader**  
   Nominated for the highest award in this competitive national-level contest for innovative solutions to practical problems.
 
 ---
