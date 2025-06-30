@@ -1,40 +1,58 @@
-# **Xu Pan**
+<h1 align="center">Hi there, I'm <b>Xu Pan</b> 👋</h1>
 
-📍 **Hefei University of Technology** | **Junior** | **Computer Science Major**  
-👀 **Specialization**: Computer Vision (Image Restoration), Interpretable Deep Learning  
-📊 **Skills**: Python, PyTorch, TensorFlow, OpenCV, Machine Learning, Deep Learning
+<p align="center">
+  📍 <b>Hefei University of Technology</b> | 🎓 <b>Junior</b> | 💻 <b>Computer Science Major</b><br>
+  🔍 <b>Focus</b>: Computer Vision (Image Restoration), Interpretable Deep Learning
+</p>
 
----
-
-## **Core Competencies**
-
-- **Computer Vision**: Specializing in image restoration techniques, with hands-on experience in neural network design, feature extraction, and image quality enhancement.
-- **Interpretable Deep Learning**: Focused on developing models that not only perform effectively but also offer transparency and interpretability in their decision-making processes.
-- **Mathematical Modeling**: Skilled in applying mathematical theories and optimization techniques to solve complex real-world problems.
-
----
-
-## **Achievements & Awards**
-
-- 🏆 **Meritorious Winner**: *Mathematical Contest in Modeling (MCM)* – **Team Leader**  
-  Led a team to develop a robust mathematical model for solving real-world issues, achieving the prestigious Meritorious Winner award.
-
-- 🥈 **National Second Prize**: *China Undergraduate Mathematical Contest in Modeling (CUMCM)* – **Team Leader**  
-  Awarded the National Second Prize in this competitive national-level contest for innovative solutions to practical problems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
 ---
 
-## **Experience**
+## 🚀 Core Competencies
 
-- **Research in Computer Vision**  
-  Conducted in-depth research on image restoration using deep learning techniques, focusing on tasks such as raindrop removal, super-resolution, and noise reduction.
-
-- **Interpretable Deep Learning Projects**  
-  Developed models emphasizing transparency, enabling better understanding and trust in AI decisions, particularly in critical applications.
+- 🧠 **Computer Vision**: Hands-on with image restoration (e.g., raindrop removal, super-resolution), neural networks, and enhancement techniques.
+- 🔍 **Interpretable Deep Learning**: Creating models that are both effective and explainable, improving transparency and trust.
+- 📐 **Mathematical Modeling**: Applying optimization and mathematical theory to real-world challenges.
 
 ---
 
-## **Contact Information**
+## 🏅 Achievements & Awards
 
-- 📧 **E-Mail**: [pan2004xu@gmail.com](mailto:pan2004xu@gmail.com)  
-- 📍 **Location**: Hangzhou, China
+- 🏆 <b>Meritorious Winner</b> – <i>Mathematical Contest in Modeling (MCM)</i>  
+  → Team Leader for a project that built robust mathematical models solving real-world problems.
+
+- 🥈 <b>National Second Prize</b> – <i>China Undergraduate Mathematical Contest in Modeling (CUMCM)</i>  
+  → Led a team to devise practical and innovative solutions to applied modeling tasks.
+
+---
+
+## 💼 Experience
+
+- 📸 <b>Research in Computer Vision</b>  
+  → Explored deep learning for tasks like deraining, denoising, and image super-resolution.
+
+- 🧠 <b>Interpretable Deep Learning Projects</b>  
+  → Focused on transparency and explainability in AI, particularly for sensitive domains.
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:pan2004xu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Hangzhou,%20China-blue?style=for-the-badge&logo=google-maps&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jerryp-hfut&show_icons=true&theme=tokyonight&hide=stars"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryp-hfut&layout=compact&theme=tokyonight"/>
+</p>
